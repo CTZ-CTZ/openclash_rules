@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,sg1.p9999.space
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,githubusercontent
+DOMAIN-KEYWORD,nz1123
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
