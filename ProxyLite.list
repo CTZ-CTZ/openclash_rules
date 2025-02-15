@@ -20,6 +20,7 @@ DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,githubusercontent
 DOMAIN-KEYWORD,nz1123
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,subneko
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
